@@ -1,1 +1,2 @@
 # python_project
+Meddi Connect is a Django-based platform designed to enhance communication and management in healthcare settings. Built with Python and Django, Meddi Connect enables seamless interaction between patients and healthcare professionals through secure messaging, appointment scheduling, and medical record management. The platform is designed with an emphasis on data security, scalability, and user-
